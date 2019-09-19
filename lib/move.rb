@@ -8,7 +8,7 @@ end
 def input_to_index(input)
   input.to_i-1
   end 
-position= 4
+position= 2
 def move(display_board, position, character="X")
 display_board[position]=character
 end 

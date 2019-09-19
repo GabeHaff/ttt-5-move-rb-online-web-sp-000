@@ -15,5 +15,3 @@ board =
   " ", " ", " ",
   " ", " ", " " ]
 move(display_board, position,  character)
-
-  character = "X"

@@ -9,6 +9,6 @@ def input_to_index(input)
   input.to_i-1
   end 
 position= 4
-def move(display_board, position, character="X")
+def move(display_board, position, character)
 display_board[position]=character
 end 

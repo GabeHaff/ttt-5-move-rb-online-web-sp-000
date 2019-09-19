@@ -11,7 +11,7 @@ input=gets.strip
 position= input_to_index(input)
 
 board = 
-[ " ", " ", " ",
+[ "X", " ", " ",
   " ", " ", " ",
   " ", " ", " " ]
 move(board, position, input)

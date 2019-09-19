@@ -9,6 +9,5 @@ end
 # code your input_to_index and move method here!
 def input_to_index(input)
   input=gets.chomp
-  do input.to_i
-end 
+  input.to_i
 end 

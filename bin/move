@@ -8,12 +8,12 @@ puts "Welcome to Tic Tac Toe!"
 
 input=gets.strip
 
-index= input_to_index(input)
+position= input_to_index(input)
 
 board = 
 [ " ", " ", " ",
   " ", " ", " ",
   " ", " ", " " ]
-move(index, display_board, character)
+move(display_board, position,  character)
 
   character = "X"

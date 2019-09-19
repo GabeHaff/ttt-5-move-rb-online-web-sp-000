@@ -14,5 +14,5 @@ board =
 [ " ", " ", " ",
   " ", " ", " ",
   " ", " ", " " ]
-
+move(position)
 character="X"

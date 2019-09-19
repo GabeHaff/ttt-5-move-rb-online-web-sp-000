@@ -6,10 +6,7 @@
   puts " #{board[6]} | #{board[7]} | #{board[8]} "
 end
 
- board_array= [ " ", " ", " ",
-  " ", " ", " ",
-  " ", " ", " " ]
-end
+
 
 # code your input_to_index and move method here!
 def input_to_index(input)

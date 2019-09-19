@@ -14,6 +14,6 @@ board =
 [ " ", " ", " ",
   " ", " ", " ",
   " ", " ", " " ]
-move(index)
+move(index, display_board, character)
 
   character = "X"

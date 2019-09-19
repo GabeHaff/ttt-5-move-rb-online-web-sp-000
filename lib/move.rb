@@ -8,6 +8,6 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index(input)
-  input=gets.chomp
-  input.to_i
+  input=gets.to_i
+  
 end 

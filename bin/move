@@ -17,6 +17,7 @@ input=gets.strip
 
 position= input_to_index(input)
 
+Character= "X"
 
 move(board, position)
 

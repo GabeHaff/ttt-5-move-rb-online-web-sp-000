@@ -11,3 +11,4 @@ def input_to_index(input)
   input=gets.chomp
   do input.to_i
 end 
+end 

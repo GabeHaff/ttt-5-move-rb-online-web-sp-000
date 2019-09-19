@@ -11,4 +11,4 @@ board =
 [ " ", " ", " ",
   " ", " ", " ",
   " ", " ", " " ]
-  move(display_board, position, character)
+  move(display_board, position, character=X)

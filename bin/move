@@ -14,5 +14,5 @@ board =
 [ " ", " ", " ",
   " ", " ", " ",
   " ", " ", " " ]
-move(display_board, index, character)
+move(board, position, input)
 

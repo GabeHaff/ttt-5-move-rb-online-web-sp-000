@@ -15,4 +15,4 @@ board =
   " ", " ", " ",
   " ", " ", " " ]
 move(board, position, input)
-
+character= "X"

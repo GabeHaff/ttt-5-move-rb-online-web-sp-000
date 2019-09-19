@@ -18,6 +18,5 @@ position= input_to_index(input)
 
 move(board, position, input)
 
-character= "X"
 
 display_board(board)
